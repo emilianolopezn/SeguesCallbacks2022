@@ -12,6 +12,8 @@
 		8643203B2910134C00BB2255 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 864320392910134C00BB2255 /* Main.storyboard */; };
 		8643203D2910135300BB2255 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8643203C2910135300BB2255 /* Assets.xcassets */; };
 		864320402910135300BB2255 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8643203E2910135300BB2255 /* LaunchScreen.storyboard */; };
+		86432048291016EF00BB2255 /* VerdeController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 86432047291016EF00BB2255 /* VerdeController.swift */; };
+		8643204A29101C0E00BB2255 /* AmarilloController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8643204929101C0E00BB2255 /* AmarilloController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +24,8 @@
 		8643203C2910135300BB2255 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		8643203F2910135300BB2255 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		864320412910135300BB2255 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		86432047291016EF00BB2255 /* VerdeController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VerdeController.swift; sourceTree = "<group>"; };
+		8643204929101C0E00BB2255 /* AmarilloController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AmarilloController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +64,8 @@
 				8643203C2910135300BB2255 /* Assets.xcassets */,
 				8643203E2910135300BB2255 /* LaunchScreen.storyboard */,
 				864320412910135300BB2255 /* Info.plist */,
+				86432047291016EF00BB2255 /* VerdeController.swift */,
+				8643204929101C0E00BB2255 /* AmarilloController.swift */,
 			);
 			path = repaso;
 			sourceTree = "<group>";
@@ -135,6 +141,8 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				8643204A29101C0E00BB2255 /* AmarilloController.swift in Sources */,
+				86432048291016EF00BB2255 /* VerdeController.swift in Sources */,
 				864320382910134C00BB2255 /* ViewController.swift in Sources */,
 				864320362910134C00BB2255 /* AppDelegate.swift in Sources */,
 			);
